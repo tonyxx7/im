@@ -1,4 +1,4 @@
-/* global IDBKeyRange, App, CoSeMe, Providers, Tools, Avatar, Store, Message, Chat, Account, Accounts, Lungo, Make, async, axolotl, emojione, _root */
+/* global IDBKeyRange, App, CoSeMe, Providers, Tools, Avatar, Store, Message, Chat, Account, Accounts, Lungo, Make, async, axolotl */
 
 /**
  * @file Holds {@link Connector/Coseme}
